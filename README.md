@@ -2,13 +2,6 @@
 
 <details>
 	<summary>ℹ About Me</summary>
-	
- 	Gender: ♂ Male
-	Occupations: {
-	  Unemployed,
-	  Back-end developer,
-	  Full-stack developer
-	}
 </details>
 
 <details>
