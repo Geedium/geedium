@@ -12,6 +12,33 @@
 	
 </details>
 
-<img align="left" height="148" src="https://github-readme-stats.vercel.app/api?username=Geedium&show_icons=true&theme=buefy" />	
- 
-<img align="right" height="148" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Geedium&layout=compact&theme=buefy" />	
+<table>
+  <tbody>
+    <tr>
+      <th>
+        <a href="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Geedium">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Geedium&theme=dracula"/>
+        </a>
+      </th>
+      <th>
+        <a href="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Geedium">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Geedium&theme=dracula"/>
+        </a>
+      </th>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Geedium">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Geedium&theme=dracula"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Geedium">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Geedium&theme=dracula"/>
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
