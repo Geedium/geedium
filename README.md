@@ -1,5 +1,7 @@
 ![Featured](images/featured-2021.png)
 
+[![Profile Views](https://visitcount.itsvg.in/api?id=Geedium&label=Profile%20Views&color=1&icon=0&pretty=true)](https://visitcount.itsvg.in)
+
 <details>
 	<summary>ℹ About Me</summary>
 </details>
